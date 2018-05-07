@@ -1,5 +1,5 @@
 주소록 만들기
-===
+====
 
 * 개발환경
   * node.js
@@ -7,8 +7,8 @@
   * MongoDB(mongoose)
   * ejs
   * bootstrap
-* [A MEAN Blog](https://www.a-mean-blog.com/ko/blog/Node-JS-%EC%B2%AB%EA%B1%B8%EC%9D%8C/%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0 "A MEAN Blog")
- 에 코드와 강의가 있습니다.
+* 출처 : [A MEAN Blog](https://www.a-mean-blog.com/ko/blog/Node-JS-%EC%B2%AB%EA%B1%B8%EC%9D%8C/%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0 "A MEAN Blog")
+ 에 강의와 코드를 보고 만들었습니다.
 
 ----
 
